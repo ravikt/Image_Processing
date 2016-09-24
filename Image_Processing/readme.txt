@@ -11,6 +11,5 @@ dip4: Image sharpening using laplacian and gradient operator
 dip5: Frequency domain filtering. Incomplete code.
 
 
-Ravi Kumar Thakur
-201682010
+
 
