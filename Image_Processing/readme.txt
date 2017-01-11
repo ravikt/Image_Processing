@@ -1,4 +1,4 @@
-The folder contains Matlab codes for assignmnet on Digital Image Processing.
+The folder contains Matlab codes for Digital Image Processing.
 
 dip1: Program on Histogram equlaization
 
